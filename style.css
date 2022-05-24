@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #BEE1E6;
+}
+
+#container{
+
+    margin: 10% 20%;
+    color: black;
+    text-align: center;
+}
+h1{
+    margin-bottom: 3%;
+}
